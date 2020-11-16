@@ -19,7 +19,7 @@
 <body class="antialiased">
 <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">
     <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-        <div class="flex justify-center pt-8 lg:justify-start sm:pt-0">
+        <div class="flex justify-center pt-8 lg:justify-start sm:pt-2">
             <x-logo class="h-40 w-auto text-gray-700"></x-logo>
         </div>
 
@@ -117,7 +117,7 @@
 
                 <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
                     <div class="flex items-center">
-                        <x-heroicon-o-chat-alt-2 class="w-8 h-8 text-gray-500"/>
+                        <x-heroicon-o-globe class="w-8 h-8 text-gray-500"/>
 
                         <div class="ml-4 text-lg leading-7 font-semibold">
                             <a href="https://www.meetup.com/athens-laravel-meetup" class="underline text-gray-900 dark:text-white"
@@ -157,6 +157,13 @@
                         <x-heroicon-o-shopping-cart class="lg:ml-4 -mt-px w-5 h-5 text-gray-400 inline-flex"/>
                         <a href="https://laravel.bigcartel.com" class="ml-1 underline">
                             Shop
+                        </a>
+                    </div>
+
+                    <div>
+                        <x-heroicon-o-heart class="lg:ml-4 -mt-px w-5 h-5 text-gray-400 inline-flex"/>
+                        <a href="https://github.com/sponsors/taylorotwell" class="ml-1 underline">
+                            Sponsor
                         </a>
                     </div>
 
