@@ -65,7 +65,7 @@
                     <div class="flex items-center">
                         <x-heroicon-o-chat-alt-2 class="w-8 h-8 text-gray-500"/>
                         <div class="ml-4 text-lg leading-7 font-semibold">
-                            <a href="https://laravel-news.com/" class="underline text-gray-900 dark:text-white"
+                            <a href="http://forum.laravel.gr/" class="underline text-gray-900 dark:text-white"
                                target="_blank" rel="noopener">
                                 Forum
                             </a>
@@ -83,7 +83,7 @@
                     <div class="flex items-center">
                         <x-tabler-brand-facebook class="w-8 h-8 text-gray-500"/>
                         <div class="ml-4 text-lg leading-7 font-semibold">
-                            <a href="https://laravel-news.com/" class="underline text-gray-900 dark:text-white"
+                            <a href="https://www.facebook.com/laravelgr" class="underline text-gray-900 dark:text-white"
                                target="_blank" rel="noopener">
                                 Facebook
                             </a>
@@ -154,25 +154,19 @@
                     </div>
 
                     <div>
+                        <x-heroicon-o-camera class="lg:ml-4 -mt-px w-5 h-5 text-gray-400 inline-flex"/>
+                        <a href="https://laracasts.com/" class="ml-1 underline">
+                            Laracasts
+                        </a>
+                    </div>
+
+                    <div>
                         <x-heroicon-o-shopping-cart class="lg:ml-4 -mt-px w-5 h-5 text-gray-400 inline-flex"/>
                         <a href="https://laravel.bigcartel.com" class="ml-1 underline">
                             Shop
                         </a>
                     </div>
 
-                    <div>
-                        <x-heroicon-o-heart class="lg:ml-4 -mt-px w-5 h-5 text-gray-400 inline-flex"/>
-                        <a href="https://github.com/sponsors/taylorotwell" class="ml-1 underline">
-                            Sponsor
-                        </a>
-                    </div>
-
-                    <div>
-                        <x-heroicon-o-heart class="lg:ml-4 -mt-px w-5 h-5 text-gray-400 inline-flex"/>
-                        <a href="https://github.com/sponsors/taylorotwell" class="ml-1 underline">
-                            Sponsor
-                        </a>
-                    </div>
                 </div>
             </div>
             <div class="lg:ml-4 mt-6 lg:mt-0 lg:py-0 py-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">

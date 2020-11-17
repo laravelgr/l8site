@@ -148,7 +148,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../artwork" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sponsors-share" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -175,7 +175,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605543040257</updated>
-      <workItem from="1605543048984" duration="11158000" />
+      <workItem from="1605543048984" duration="13573000" />
     </task>
     <servers />
   </component>
