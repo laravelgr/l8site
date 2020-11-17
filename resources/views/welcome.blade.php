@@ -141,28 +141,28 @@
                 <div class="flex lg:flex-row flex-col lg:items-center lg:space-y-0 space-y-4">
                     <div>
                         <x-fab-laravel class="-mt-px w-5 h-5 text-gray-400 inline-flex"/>
-                        <a href="https://laravel.com" class="ml-1 underline">
+                        <a href="https://laravel.com" class="ml-1 underline" target="_blank" rel="noopener">
                             Laravel
                         </a>
                     </div>
 
                     <div>
                         <x-heroicon-o-annotation class="lg:ml-4 -mt-px w-5 h-5 text-gray-400 inline-flex"/>
-                        <a href="https://github.com/sponsors/taylorotwell" class="ml-1 underline">
+                        <a href="https://github.com/sponsors/taylorotwell" class="ml-1 underline" target="_blank" rel="noopener">
                             Laravel News
                         </a>
                     </div>
 
                     <div>
                         <x-heroicon-o-camera class="lg:ml-4 -mt-px w-5 h-5 text-gray-400 inline-flex"/>
-                        <a href="https://laracasts.com/" class="ml-1 underline">
+                        <a href="https://laracasts.com/" class="ml-1 underline" target="_blank" rel="noopener">
                             Laracasts
                         </a>
                     </div>
 
                     <div>
                         <x-heroicon-o-shopping-cart class="lg:ml-4 -mt-px w-5 h-5 text-gray-400 inline-flex"/>
-                        <a href="https://laravel.bigcartel.com" class="ml-1 underline">
+                        <a href="https://laravel.bigcartel.com" class="ml-1 underline" target="_blank" rel="noopener">
                             Shop
                         </a>
                     </div>
@@ -171,7 +171,7 @@
             </div>
             <div class="lg:ml-4 mt-6 lg:mt-0 lg:py-0 py-4 text-center text-sm text-gray-500 sm:text-right sm:ml-0">
                 We <x-heroicon-s-heart class="-mt-1 w-4 h-4 text-pink-500 inline-flex"/>
-                <a href="https://laravel.com" class="ml-1 underline">
+                <a href="https://laravel.com" class="ml-1 underline" target="_blank" rel="noopener">
                     Laravel Framework
                 </a>
             </div>

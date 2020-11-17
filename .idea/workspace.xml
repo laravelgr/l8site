@@ -156,6 +156,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Pest.Unnamed">
@@ -175,7 +176,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605543040257</updated>
-      <workItem from="1605543048984" duration="13573000" />
+      <workItem from="1605543048984" duration="17827000" />
     </task>
     <servers />
   </component>
