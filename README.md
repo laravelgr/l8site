@@ -6,12 +6,14 @@ This repo contains the source code of the community website of Laravel Greece.
 
 ## Security
 
-If you discover any security related issues, please email me@octoper.me instead of using the issue tracker. 
+If you discover any security related issues, please email me@octoper.me instead of using the issue tracker.
 
 ## Credits
 
 - [Vaggelis Yfantis](https://github.com/octoper)
 - [All Contributors](../../contributors)
+
+[Laravel](https://laravel.com) it's a trademark of [Taylor Otwell](http://twitter.com/taylorotwell).
 
 ## License
 
