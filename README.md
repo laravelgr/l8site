@@ -1,4 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/caneco/laravel-country-logomarks/main/src/gr/socialcard.png" width="600"></a></p>
+<p align="center"><img src="https://raw.githubusercontent.com/caneco/laravel-country-logomarks/main/src/gr/socialcard.png" width="600"></p>
 
 # Laravel Greece Website
 
