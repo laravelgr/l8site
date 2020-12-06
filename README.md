@@ -13,6 +13,8 @@ If you discover any security related issues, please email me@octoper.me instead 
 - [Vaggelis Yfantis](https://github.com/octoper)
 - [All Contributors](../../contributors)
 
+Laravel Greece artwork is created by [Caneco](https://github.com/caneco) and can be found in [laravel-country-logomarks](https://github.com/caneco/laravel-country-logomarks)
+
 [Laravel](https://laravel.com) it's a trademark of [Taylor Otwell](http://twitter.com/taylorotwell).
 
 ## License
