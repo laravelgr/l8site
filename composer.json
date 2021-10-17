@@ -9,20 +9,19 @@
     "license": "MIT",
     "require": {
         "php": "^7.3|^8.0",
-        "blade-ui-kit/blade-heroicons": "^0.3.0",
-        "fideloper/proxy": "^4.4",
+        "blade-ui-kit/blade-heroicons": "^1.2",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
-        "laravel/framework": "^8.12",
+        "laravel/framework": "^8.64",
         "laravel/tinker": "^2.5",
-        "owenvoke/blade-fontawesome": "^1.6",
-        "ryangjchandler/blade-tabler-icons": "^0.3.2"
+        "owenvoke/blade-fontawesome": "^1.9",
+        "ryangjchandler/blade-tabler-icons": "^1.1"
     },
     "require-dev": {
-        "facade/ignition": "^2.5",
-        "fakerphp/faker": "^1.9.1",
-        "mockery/mockery": "^1.4.2",
-        "nunomaduro/collision": "^5.0",
+        "facade/ignition": "^2.15",
+        "fakerphp/faker": "^1.16",
+        "mockery/mockery": "^1.4.4",
+        "nunomaduro/collision": "^5.10",
         "phpunit/phpunit": "^9.3.3"
     },
     "config": {
