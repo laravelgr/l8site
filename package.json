@@ -1,16 +1,20 @@
 {
     "private": true,
     "scripts": {
-        "dev": "vite",
-        "build": "vite build",
-        "serve": "vite preview"
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "prod": "npm run production",
+        "production": "mix --production"
     },
     "devDependencies": {
         "alpinejs": "^3.4.2",
         "autoprefixer": "^10.3.7",
-        "laravel-vite": "0.0.21",
+        "laravel-mix": "^6.0.34",
         "postcss": "^8.3.9",
         "tailwindcss": "^2.2.17",
-        "vite": "^2.6.7"
+        "webpack-cli": "^4.9.0"
     }
 }
