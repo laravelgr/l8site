@@ -5,7 +5,7 @@
         class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">
         <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
             <div class="flex justify-center pt-8 sm:pt-2">
-                <x-logo class="h-40 w-auto text-gray-700"></x-logo>
+                <x-logo class="h-40 w-auto"></x-logo>
             </div>
 
             <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
@@ -144,7 +144,7 @@
 
                         <div>
                             <x-heroicon-o-annotation class="lg:ml-4 -mt-px w-5 h-5 text-gray-400 inline-flex"/>
-                            <a href="https://github.com/sponsors/taylorotwell" class="ml-1 underline" target="_blank"
+                            <a href="https://laravel-news.com" class="ml-1 underline" target="_blank"
                                rel="noopener">
                                 Laravel News
                             </a>

@@ -28,10 +28,10 @@
     <link rel="preload" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap"></noscript>
 
-    <!-- Styles -->
-    <link href="{{ mix('/css/app.css') }}" rel="stylesheet">
+    @vite
 </head>
-<body class="antialiased">
+<body class="antialiased font-nunito">
     @yield('content')
+
 </body>
 </html>

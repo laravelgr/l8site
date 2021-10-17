@@ -12,6 +12,7 @@
         "blade-ui-kit/blade-heroicons": "^1.2",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
+        "innocenzi/laravel-vite": "^0.1.17",
         "laravel/framework": "^8.64",
         "laravel/tinker": "^2.5",
         "owenvoke/blade-fontawesome": "^1.9",
