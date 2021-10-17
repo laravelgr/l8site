@@ -137,14 +137,14 @@
                     <div class="flex lg:flex-row flex-col lg:items-center lg:space-y-0 space-y-4">
                         <div>
                             <x-fab-laravel class="-mt-px w-5 h-5 text-gray-400 inline-flex"/>
-                            <a href="https://laravel.com" class="ml-1 underline" target="_blank" rel="noopener">
+                            <a href="https://laravel.com/" class="ml-1 underline" target="_blank" rel="noopener">
                                 Laravel
                             </a>
                         </div>
 
                         <div>
                             <x-heroicon-o-annotation class="lg:ml-4 -mt-px w-5 h-5 text-gray-400 inline-flex"/>
-                            <a href="https://laravel-news.com" class="ml-1 underline" target="_blank"
+                            <a href="https://laravel-news.com/" class="ml-1 underline" target="_blank"
                                rel="noopener">
                                 Laravel News
                             </a>

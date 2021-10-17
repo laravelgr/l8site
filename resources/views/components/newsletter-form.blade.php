@@ -1,7 +1,7 @@
 <div class="mt-3 relative lg:w-1/2">
     <label for="email" class="text-gray-600">Email</label>
     <form class="flex mt-1 xl:flex-row flex-col">
-        <input id="email" type="email" name="email" placeholder="your@emai.com" required=""
+        <input id="email" type="email" name="email" placeholder="your@email.com" required
                class="rounded-sm ring-2 ring-gray-300 focus:ring-blue-500 outline-none text-black flex-grow px-4 py-2"
                autocomplete="off">
 
